@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Brrayan</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="left">Software developer specializing in back-end development with Node.js and Express.js. My toolkit includes a strong proficiency in both JavaScript and TypeScript, which I utilize to create efficient, scalable, and maintainable code. </h3>
 
 
 - 📫 How to reach me **brrayanjavi@gmail.com**
